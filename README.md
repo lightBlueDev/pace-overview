@@ -7,6 +7,8 @@ It gives human-led teams and coding agents a repeatable workflow for planning, e
 
 > Private implementation repository. This public repository is a documentation-first technical overview of the methodology, workflow design, and supporting document model.
 
+![PACE overview diagram](assets/implementation-operating-model.svg)
+
 ## Why This Project Exists
 
 AI coding work tends to drift for predictable reasons:
@@ -85,6 +87,7 @@ This overview repository is organized to make the method inspectable without exp
 - `docs/document-stack.md`: document roles and continuity surfaces
 - `docs/cross-audit-loop.md`: critique and validation before implementation
 - `docs/implementation-closure.md`: what counts as real completion
+- `docs/public-positioning.md`: concise public-facing positioning and shareable summary copy
 - `docs/status.md`: current scope, maturity, and limitations
 - `examples/`: sanitized examples of document and task artifacts
 

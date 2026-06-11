@@ -1,0 +1,45 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" fill="#F8F5EF"/>
+  <rect x="56" y="52" width="1088" height="616" rx="28" fill="#FFFEFB" stroke="#D8D1C3" stroke-width="2"/>
+  <text x="96" y="122" fill="#2B2218" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700">PACE</text>
+  <text x="96" y="160" fill="#6A6055" font-family="'Helvetica Neue', Arial, sans-serif" font-size="22">Structured operating model for AI-assisted implementation</text>
+  <rect x="92" y="234" width="134" height="96" rx="20" fill="#EFE2C6" stroke="#B68D46" stroke-width="2"/>
+  <text x="125" y="272" fill="#593E14" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Spec</text>
+  <text x="118" y="300" fill="#7D5D25" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">Intent and</text>
+  <text x="121" y="320" fill="#7D5D25" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">constraints</text>
+  <rect x="260" y="234" width="184" height="96" rx="20" fill="#E6EEE6" stroke="#6E9272" stroke-width="2"/>
+  <text x="288" y="272" fill="#27422A" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Architecture</text>
+  <text x="325" y="300" fill="#4C6950" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">Review</text>
+  <text x="288" y="320" fill="#4C6950" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">Cross-audit shape</text>
+  <rect x="478" y="234" width="158" height="96" rx="20" fill="#E8ECF6" stroke="#7288B3" stroke-width="2"/>
+  <text x="517" y="272" fill="#2A3B60" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Milestones</text>
+  <text x="516" y="300" fill="#516688" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">Delivery structure</text>
+  <text x="516" y="320" fill="#516688" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">and sequencing</text>
+  <rect x="670" y="234" width="156" height="96" rx="20" fill="#F6E7E8" stroke="#B5747E" stroke-width="2"/>
+  <text x="701" y="272" fill="#5A2730" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Atomic</text>
+  <text x="706" y="300" fill="#824650" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">Task slices</text>
+  <text x="707" y="320" fill="#824650" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">bound work</text>
+  <rect x="860" y="234" width="142" height="96" rx="20" fill="#ECE8F5" stroke="#8575AD" stroke-width="2"/>
+  <text x="892" y="272" fill="#392A59" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Execute</text>
+  <text x="888" y="300" fill="#5F4E84" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">Human-led</text>
+  <text x="893" y="320" fill="#5F4E84" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">agent work</text>
+  <path d="M226 282H260" stroke="#87785D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M444 282H478" stroke="#87785D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M636 282H670" stroke="#87785D" stroke-width="3" stroke-linecap="round"/>
+  <path d="M826 282H860" stroke="#87785D" stroke-width="3" stroke-linecap="round"/>
+  <rect x="210" y="468" width="220" height="108" rx="22" fill="#F9F1DE" stroke="#C7A45E" stroke-width="2"/>
+  <text x="271" y="510" fill="#604619" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Review</text>
+  <text x="250" y="542" fill="#7E6231" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">Check behavior and</text>
+  <text x="249" y="562" fill="#7E6231" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">alignment, not just output</text>
+  <rect x="492" y="468" width="224" height="108" rx="22" fill="#EAF4EE" stroke="#6E9D82" stroke-width="2"/>
+  <text x="528" y="510" fill="#214433" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Context Preserve</text>
+  <text x="529" y="542" fill="#466A58" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">Docs and status carry</text>
+  <text x="534" y="562" fill="#466A58" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">continuity forward</text>
+  <rect x="778" y="468" width="234" height="108" rx="22" fill="#EEF0F8" stroke="#788FBA" stroke-width="2"/>
+  <text x="842" y="510" fill="#2B3D64" font-family="'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="700">Closure</text>
+  <text x="815" y="542" fill="#54698D" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">Done means code, docs,</text>
+  <text x="829" y="562" fill="#54698D" font-family="'Helvetica Neue', Arial, sans-serif" font-size="16">status, and handoff align</text>
+  <path d="M932 362C932 420 874 448 744 448H352C260 448 210 460 210 468" stroke="#9D8C69" stroke-width="3" stroke-linecap="round"/>
+  <path d="M430 522H492" stroke="#9D8C69" stroke-width="3" stroke-linecap="round"/>
+  <path d="M716 522H778" stroke="#9D8C69" stroke-width="3" stroke-linecap="round"/>
+</svg>
