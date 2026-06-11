@@ -1,0 +1,68 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" fill="#F8F5EF"/>
+  <rect x="36" y="36" width="1208" height="568" rx="30" fill="#FFFEFB" stroke="#D8D1C3" stroke-width="2"/>
+  <circle cx="1054" cy="116" r="204" fill="url(#pace-glow)" opacity="0.52"/>
+  <circle cx="144" cy="542" r="212" fill="url(#pace-glow-2)" opacity="0.3"/>
+
+  <text x="92" y="126" fill="#2B2218" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700">PACE</text>
+  <text x="92" y="170" fill="#6A6055" font-family="'Helvetica Neue', Arial, sans-serif" font-size="28">Structured operating model for AI-assisted implementation</text>
+
+  <text x="92" y="252" fill="#32281C" font-family="'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700">Clarify before coding.</text>
+  <text x="92" y="296" fill="#32281C" font-family="'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700">Audit before drift.</text>
+  <text x="92" y="340" fill="#32281C" font-family="'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="700">Close beyond “tests passed.”</text>
+
+  <text x="92" y="408" fill="#6F6559" font-family="'Helvetica Neue', Arial, sans-serif" font-size="22">A disciplined workflow for planning, task slicing,</text>
+  <text x="92" y="438" fill="#6F6559" font-family="'Helvetica Neue', Arial, sans-serif" font-size="22">handoff quality, and implementation closure.</text>
+
+  <rect x="92" y="500" width="146" height="44" rx="22" fill="#F1E7CB" stroke="#C6A85D" stroke-width="1.5"/>
+  <text x="165" y="528" text-anchor="middle" fill="#725A23" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700">Cross-Audit</text>
+  <rect x="254" y="500" width="150" height="44" rx="22" fill="#E6EEE6" stroke="#6E9272" stroke-width="1.5"/>
+  <text x="329" y="528" text-anchor="middle" fill="#35563B" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700">Atomic Tasks</text>
+  <rect x="420" y="500" width="178" height="44" rx="22" fill="#EEF0F8" stroke="#788FBA" stroke-width="1.5"/>
+  <text x="509" y="528" text-anchor="middle" fill="#4E668C" font-family="'Helvetica Neue', Arial, sans-serif" font-size="18" font-weight="700">Closure Discipline</text>
+
+  <rect x="724" y="146" width="126" height="82" rx="18" fill="#EFE2C6" stroke="#B68D46" stroke-width="2"/>
+  <text x="787" y="180" text-anchor="middle" fill="#5C4117" font-family="'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="700">Spec</text>
+  <text x="787" y="207" text-anchor="middle" fill="#83662C" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14">intent and scope</text>
+
+  <rect x="886" y="146" width="156" height="82" rx="18" fill="#E6EEE6" stroke="#6E9272" stroke-width="2"/>
+  <text x="964" y="180" text-anchor="middle" fill="#27422A" font-family="'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="700">Review</text>
+  <text x="964" y="207" text-anchor="middle" fill="#4E6A53" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14">cross-audit shape</text>
+
+  <rect x="1068" y="146" width="126" height="82" rx="18" fill="#E8ECF6" stroke="#7288B3" stroke-width="2"/>
+  <text x="1131" y="180" text-anchor="middle" fill="#2A3B60" font-family="'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="700">Tasks</text>
+  <text x="1131" y="207" text-anchor="middle" fill="#596E91" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14">atomic slices</text>
+
+  <rect x="804" y="286" width="150" height="82" rx="18" fill="#F6E7E8" stroke="#B5747E" stroke-width="2"/>
+  <text x="879" y="320" text-anchor="middle" fill="#5A2730" font-family="'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="700">Execute</text>
+  <text x="879" y="347" text-anchor="middle" fill="#824650" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14">human + agent work</text>
+
+  <rect x="988" y="286" width="176" height="82" rx="18" fill="#EEF0F8" stroke="#788FBA" stroke-width="2"/>
+  <text x="1076" y="320" text-anchor="middle" fill="#2B3D64" font-family="'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="700">Closure</text>
+  <text x="1076" y="347" text-anchor="middle" fill="#54698D" font-family="'Helvetica Neue', Arial, sans-serif" font-size="14">docs, status, handoff align</text>
+
+  <rect x="874" y="432" width="232" height="88" rx="20" fill="#F9F1DE" stroke="#C7A45E" stroke-width="2"/>
+  <text x="990" y="467" text-anchor="middle" fill="#654C1D" font-family="'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="700">Implementation Loop</text>
+  <text x="990" y="496" text-anchor="middle" fill="#836936" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15">planning, review, execution,</text>
+  <text x="990" y="516" text-anchor="middle" fill="#836936" font-family="'Helvetica Neue', Arial, sans-serif" font-size="15">handoff, and closure</text>
+
+  <path d="M850 187H886" stroke="#918368" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1042 187H1068" stroke="#918368" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1131 228V254C1131 273 1116 286 1096 286H954" stroke="#918368" stroke-width="3" stroke-linecap="round"/>
+  <path d="M954 327H988" stroke="#918368" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1076 368V394C1076 415 1060 432 1038 432" stroke="#918368" stroke-width="3" stroke-linecap="round"/>
+  <path d="M874 476H816C782 476 760 454 760 424V187H724" stroke="#918368" stroke-width="3" stroke-linecap="round"/>
+  <path d="M724 187L740 198" stroke="#918368" stroke-width="3" stroke-linecap="round"/>
+  <path d="M724 187L742 184" stroke="#918368" stroke-width="3" stroke-linecap="round"/>
+
+  <defs>
+    <radialGradient id="pace-glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1054 116) rotate(90) scale(204)">
+      <stop stop-color="#DDD4C2"/>
+      <stop offset="1" stop-color="#DDD4C2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="pace-glow-2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(144 542) rotate(90) scale(212)">
+      <stop stop-color="#E7DDCC"/>
+      <stop offset="1" stop-color="#E7DDCC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

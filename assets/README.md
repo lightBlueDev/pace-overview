@@ -7,3 +7,5 @@ Only sanitized, documentation-safe assets should be placed here.
 Current assets:
 
 - `implementation-operating-model.svg`
+- `social-preview.svg`
+- `social-preview.png`
